@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Caythong",
+    "texture": "0ee30429-f7d7-4793-87d0-f698b13e783a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      126
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      126
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
